@@ -1,0 +1,59 @@
+.grfc_form_container{
+	padding: 10px 10px 10px 10px
+}
+
+.grfc_headline{
+	font-size:36px;
+	text-align:center;
+}
+
+.grfc_message{
+}
+
+.grfc_image{
+	margin:0 auto;
+}
+
+.grfc_image img{
+	display: inline-block;
+}
+
+.grfc_button{
+	text-align: center;
+	padding-top:10px;
+	padding-botom:10px;
+}
+
+.grfc_button .btn {
+  background: #8a8a8a;
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.grfc_name{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+.grfc_email{
+	clear:both;
+	display: block;
+	margin:0 auto;
+}
+
+#grfc_name_field{
+	margin-bottom:10px;
+	
+}
+
+#grfc_email_field{
+	
+}
