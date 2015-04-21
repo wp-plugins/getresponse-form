@@ -61,6 +61,9 @@ Yes, you can put GetResponse forms on your homepage by using the GetResponse For
 = Can I put GetResponse forms on any post or page? =
 Yes, use the GetResponse forms shortcode, [getresponse_form id="%postId%"] on your pages and posts.
 
+= What information do I need to hook the form up to my GetResponse account? =
+You need the GetResponse campaign token.
+
 
 == Screenshots ==
 
